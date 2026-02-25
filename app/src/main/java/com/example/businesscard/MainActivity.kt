@@ -61,7 +61,7 @@ fun BusinessCard() {
             )
 
             Text(
-                text = "Akhilesh Gowda",
+                text = "Akhilesh C Gowda",
                 fontSize = 32.sp,
                 fontWeight = FontWeight.Bold,
                 color = Color.White,
